@@ -1,0 +1,21 @@
+img {
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    color: rgb(227, 214, 214);
+}
+
+html {
+    background-color: rgb(69, 199, 199);
+}
+
+figcaption {
+
+
+    text-align: center;
+    /* Đặt chiều rộng của figcaption */
+}
